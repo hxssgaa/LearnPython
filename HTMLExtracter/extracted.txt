@@ -1,0 +1,370 @@
+shop/404.html                                                         -->404错误 - $!config.title
+shop/500.html                                                         -->500错误 - $!config.title
+shop/activity.html                                                    -->$!act.ac_title - $!config.title - Powered by sfxxkj
+shop/article.html                                                     -->$!obj.title - $!config.title - Powered by sfxxkj
+shop/balance_pay.html                                                 -->预付款支付 - Powered by sfxxkj
+shop/bargain.html                                                     -->$!{config.bargain_title} - $!config.title - Powered by sfxxkj
+shop/black/goods_list.html                                            -->$!store.store_name - $!config.title - Powered by sfxxkj
+shop/black/store_credit.html                                          -->$!store.store_name - Powered by sfxxkj
+shop/black/store_goods.html                                           -->$!obj.goods_name - $!config.title - Powered by sfxxkj
+shop/black/store_goods_search.html                                    -->包含$!{keyword}商品搜索结果 - Powered by sfxxkj
+shop/black/store_index.html                                           -->$!store.store_name - Powered by sfxxkj
+shop/black/store_info.html                                            -->店铺信息 - $!config.title
+shop/black/store_url.html                                             -->$!nav.title - $!config.title
+shop/blue/goods_list.html                                             -->$!store.store_name - $!config.title - Powered by sfxxkj
+shop/blue/store_credit.html                                           -->$!store.store_name - Powered by sfxxkj
+shop/blue/store_goods.html                                            -->$!obj.goods_name - $!config.title - Powered by sfxxkj
+shop/blue/store_goods_search.html                                     -->包含$!{keyword}商品搜索结果 - Powered by sfxxkj
+shop/blue/store_index.html                                            -->$!store.store_name - Powered by sfxxkj
+shop/blue/store_info.html                                             -->店铺信息 - $!config.title
+shop/blue/store_url.html                                              -->$!nav.title - $!config.title
+shop/brand.html                                                       -->商城品牌 - $!config.title - Powered by sfxxkj
+shop/brand_goods.html                                                 -->$!gb.name - Powered by sfxxkj
+shop/buyer_activited_cashcoupon.html                                  -->现金券兑换 -  Powered by sfxxkj
+shop/buyer_activited_coupon.html                                      -->优惠券兑换 -  Powered by sfxxkj
+shop/cashcoupon_pay.html                                              -->现金券支付
+shop/cashcoupontype_pay.html                                          -->购物车 - Powered by sfxxkj
+shop/cashcoupontype_show.html                                         -->现金券支付
+shop/close.html                                                       -->$!config.title - Powered by sfxxkj
+shop/default/about_index.html                                         -->满屋家具
+shop/default/discovery_blog_detail.html                               -->满屋家具
+shop/default/discovery_index.html                                     -->满屋家居
+shop/default/discovery_video_detail.html                              -->满屋家具
+shop/default/gongyi_store_goods.html                                  -->$!obj.goods_name - $!config.title - Powered by shopping
+shop/default/goods_list.html                                          -->$!store.store_name - $!config.title - Powered by sfxxkj
+shop/default/group_view.html                                          -->满屋家具
+shop/default/product_index.html                                       -->满屋家居
+shop/default/program-detail.html                                      -->满屋家居
+shop/default/program_index.html                                       -->满屋家居
+shop/default/promotion_index.html                                     -->满屋家居
+shop/default/promotion_index_bak.html                                 -->满屋家具
+shop/default/promotion_index_bak2.html                                -->满屋家具
+shop/default/promotion_reduction.html                                 -->满屋家居
+shop/default/promotion_seckill.html                                   -->满屋家居
+shop/default/seckill_goods.html                                       -->满屋家具
+shop/default/store_credit.html                                        -->$!store.store_name - Powered by sfxxkj
+shop/default/store_goods.html                                         -->满屋家居
+shop/default/store_goods_search.html                                  -->包含$!{keyword}商品搜索结果 - Powered by sfxxkj
+shop/default/store_index.html                                         -->$!store.store_name - Powered by sfxxkj
+shop/default/store_info.html                                          -->店铺信息 - $!config.title
+shop/default/store_url.html                                           -->$!nav.title - $!config.title
+shop/delivery.html                                                    -->$!{config.delivery_title} - $!config.title - Powered by sfxxkj
+shop/designer_deal.html                                               -->满屋家居
+shop/designer_personal.html                                           -->满屋家居
+shop/doc.html                                                         -->用户注册协议 - $!config.title - $!config.title - Powered by sfxxkj
+shop/error.html                                                       -->系统提示 - $!config.title -
+shop/exception.html                                                   -->系统异常提示 - $!config.title -
+shop/expert_online.html                                               -->专家在线-“e养生”
+shop/flashSales.html                                                  -->闪购信息 - Powered by sfxxkj
+shop/forget.html                                                      -->$!config.title - Powered by sfxxkj
+shop/goods_cart1.html                                                 -->我的购物车 - Powered by sfxxkj
+shop/goods_cart2.html                                                 -->订单确认 - Powered by sfxxkj
+shop/goods_cart3.html                                                 -->购物车 - Powered by sfxxkj
+shop/goods_class.html                                                 -->所有分类 - Powered by sfxxkj
+shop/green/gongyi_store_goods.html                                    -->$!obj.goods_name - $!config.title - Powered by shopping
+shop/green/goods_list.html                                            -->$!store.store_name - $!config.title - Powered by sfxxkj
+shop/green/store_credit.html                                          -->$!store.store_name - Powered by sfxxkj
+shop/green/store_goods.html                                           -->$!obj.goods_name - $!config.title - Powered by sfxxkj
+shop/green/store_goods_search.html                                    -->包含$!{keyword}商品搜索结果 - Powered by sfxxkj
+shop/green/store_index.html                                           -->$!store.store_name - Powered by sfxxkj
+shop/green/store_info.html                                            -->店铺信息 - $!config.title
+shop/green/store_url.html                                             -->$!nav.title - $!config.title
+shop/group.html                                                       -->团购信息 - Powered by sfxxkj
+shop/group_list.html                                                  -->团购信息 - Powered by sfxxkj
+shop/group_view.html                                                  -->$!obj.gg_name - 团购信息 - Powered by sfxxkj
+shop/gy/gongyi.html                                                   -->e公益 - $!{config.title} - Powered by shopping
+shop/gy/gongyi_activity.html                                          -->公益-公益活动- $!{config.title} - Powered by shopping
+shop/gy/gongyi_activity_detail.html                                   -->公益-公益活动- $!{config.title} - Powered by shopping
+shop/gy/gongyi_huzhu.html                                             -->公益-互帮互助- $!{config.title} - Powered by shopping
+shop/gy/gongyi_huzhu_detail.html                                      -->$!obj.name -$!{config.title} -  Powered by shopping
+shop/gy/gongyi_jijin_detail.html                                      -->公益基金 - $!{config.title} - Powered by shopping
+shop/gy/gongyi_yimaiacti.html                                         -->公益-公益义卖- $!{config.title} - Powered by shopping
+shop/gy/gongyi_yimaiacti_detail.html                                  -->公益-公益义卖- $!{config.title} - Powered by shopping
+shop/gy/gongyi_zeren.html                                             -->公益-社会责任- $!{config.title} - Powered by shopping
+shop/gy/gongyi_zeren_detail.html                                      -->公益-社会责任- $!{config.title} - Powered by shopping
+shop/gy/gyhd.html                                                     -->e公益-公益活动
+shop/gy/gyym.html                                                     -->e公益-公益义卖
+shop/gy/public_benefit.html                                           -->e公益 - $!{config.title} - Powered by shopping
+shop/health.html                                                      -->e养生-“膳无忧”
+shop/health_club/dir_sale.html                                        -->健康俱乐部 - $!{config.title} - Powered by shopping
+shop/health_club/dir_sale_show.html                                   -->健康俱乐部 - $!{config.title} - Powered by shopping
+shop/health_club/e_magazine.html                                      -->健康俱乐部 - $!{config.title} - Powered by shopping
+shop/health_club/health_club.html                                     -->e公益 - $!{config.title} - Powered by shopping
+shop/health_club/magazine.html                                        -->健康俱乐部 - $!{config.title} - Powered by shopping
+shop/health_club/magazinelist.html                                    -->健康俱乐部 - $!{config.title} - Powered by shopping
+shop/health_club/orgactivitylist.html                                 -->健康俱乐部 - $!{config.title} - Powered by shopping
+shop/health_club/orgactivityshow.html                                 -->健康俱乐部 - $!{config.title} - Powered by shopping
+shop/health_club/orgactivitysign.html                                 -->健康俱乐部 - $!{config.title} - Powered by shopping
+shop/health_club/orgnize_activity.html                                -->健康俱乐部 - $!{config.title} - Powered by shopping
+shop/index.html                                                       -->满屋家居
+shop/integral.html                                                    -->积分商城 -$!config.title - Powered by sfxxkj
+shop/integral_balance_pay.html                                        -->预付款支付 - Powered by sfxxkj
+shop/integral_exchange1.html                                          -->积分兑换 -$!config.title - Powered by sfxxkj
+shop/integral_exchange2.html                                          -->积分商城 -$!config.title - Powered by sfxxkj
+shop/integral_exchange3.html                                          -->积分商城 -$!config.title - Powered by sfxxkj
+shop/integral_exchange4.html                                          -->购物车 - Powered by sfxxkj
+shop/integral_list.html                                               -->礼品列表 - 积分商城 - Powered by sfxxkj
+shop/integral_order_finish.html                                       -->积分订单支付结果 - Powered by sfxxkj
+shop/integral_outline_pay.html                                        -->线下汇款 - Powered by sfxxkj
+shop/integral_view.html                                               -->$!obj.ig_goods_name - 积分商城 - Powered by sfxxkj
+shop/line_pay.html                                                    -->正在支付 - Powered by sfxxkj
+shop/line_pay_1.html                                                  -->正在支付 - Powered by sfxxkj
+shop/login.html                                                       -->满屋家居
+shop/login_customer.html                                              -->用户登录 - $!config.title - Powered by sfxxkj
+shop/luntan/luntan.html                                               -->论坛- $!{config.title} - Powered by shopping
+shop/luntan/luntan_reply_saveUI.html                                  -->论坛- $!{config.title} - Powered by shopping
+shop/luntan/luntan_topic_detail.html                                  -->论坛- $!{config.title} - Powered by shopping
+shop/luntan/luntan_topic_saveUI.html                                  -->论坛- $!{config.title} - Powered by shopping
+shop/master_share.html                                                -->达人分享-e养生
+shop/order_finish.html                                                -->支付结果 - Powered by sfxxkj
+shop/order_pay.html                                                   -->购物车 - Powered by sfxxkj
+shop/origin_goods.html                                                -->$originPlace.name - Powered by shopping
+shop/outline_pay.html                                                 -->线下汇款 - Powered by sfxxkj
+shop/payafter_pay.html                                                -->货到付款 - Powered by sfxxkj
+shop/pink/goods_list.html                                             -->$!store.store_name - $!config.title - Powered by sfxxkj
+shop/pink/health_club/dir_sale.html                                   -->健康俱乐部 - $!{config.title} - Powered by shopping
+shop/pink/health_club/e_magazine.html                                 -->健康俱乐部 - $!{config.title} - Powered by shopping
+shop/pink/health_club/health_club.html                                -->e公益 - $!{config.title} - Powered by shopping
+shop/pink/health_club/orgnize_activity.html                           -->健康俱乐部 - $!{config.title} - Powered by shopping
+shop/pink/store_credit.html                                           -->$!store.store_name - Powered by sfxxkj
+shop/pink/store_goods.html                                            -->$!obj.goods_name - $!config.title - Powered by sfxxkj
+shop/pink/store_goods_search.html                                     -->包含$!{keyword}商品搜索结果 - Powered by sfxxkj
+shop/pink/store_index.html                                            -->$!store.store_name - Powered by sfxxkj
+shop/pink/store_info.html                                             -->店铺信息 - $!config.title
+shop/pink/store_url.html                                              -->$!nav.title - $!config.title
+shop/product-search.html                                              -->满屋家居
+shop/program-search.html                                              -->满屋家居
+shop/qq_login_api.html                                                -->合作伙伴账号登录 - $!config.title
+shop/qq_login_bind.html                                               -->QQ互联 - $!config.title - Powered by sfxxkjl
+shop/raise.html                                                       -->众筹 - $!{config.title} - Powered by sfxxkj
+shop/raise_cart.html                                                  -->支持众筹 - Powered by shopping
+shop/raise_cart_confirm.html                                          -->众筹确认 - Powered by shopping
+shop/raise_project.html                                               -->众筹 - $!{config.title} -  Powered by sfxxkj
+shop/recommongood.html                                                -->推荐商品 - $!config.title - Powered by sfxxkj
+shop/register.html                                                    -->满屋家居－用户注册
+shop/register_expert.html                                             -->专家注册 -$!config.title - Powered by shopping
+shop/register_master.html                                             -->达人注册 -$!config.title - Powered by shopping
+shop/search_goods_list.html                                           -->#if($!gc)$!{gc.className}#else搜索商品#end - Powered by sfxxkj
+shop/search_scheme_list.html                                          -->满屋家居
+shop/seckill_view.html                                                -->$!obj.sg_name - 秒杀信息 - Powered by jmjj
+shop/sina_login_api.html                                              -->合作伙伴账号登录 - $!config.title
+shop/sina_login_bind.html                                             -->新浪微博登录 - $!config.title - Powered by mankuhome
+shop/sparegoods.html                                                  -->闲置商品 - $!{config.title} -  Powered by sfxxkj
+shop/sparegoods_detail.html                                           -->$!obj.title -$!{config.title} -  Powered by sfxxkj
+shop/sparegoods_search.html                                           -->闲置商品搜索页 -  Powered by sfxxkj
+shop/store_create_first.html                                          -->$!config.title -  Powered by sfxxkj
+shop/store_create_second.html                                         -->$!config.title -  Powered by sfxxkj
+shop/store_goods_list.html                                            -->#if($!gc)$!{gc.className}#else搜索商品#end - Powered by sfxxkj
+shop/store_list.html                                                  -->店铺列表 - Powered by sfxxkj
+shop/success.html                                                     -->系统提示 - $!config.title
+shop/success_1.html                                                   -->系统提示 - $!config.title
+shop/ticket.html                                                      -->现金券购买 - Powered by sfxxkj
+shop/violet/goods_list.html                                           -->$!store.store_name - $!config.title - Powered by sfxxkj
+shop/violet/store_credit.html                                         -->$!store.store_name - Powered by sfxxkj
+shop/violet/store_goods.html                                          -->$!obj.goods_name - $!config.title - Powered by sfxxkj
+shop/violet/store_goods_search.html                                   -->包含$!{keyword}商品搜索结果 - Powered by sfxxkj
+shop/violet/store_index.html                                          -->$!store.store_name - Powered by sfxxkj
+shop/violet/store_info.html                                           -->店铺信息 - $!config.title
+shop/violet/store_url.html                                            -->$!nav.title - $!config.title
+shop/wechat_login_bind.html                                           -->微信登录 - $!config.title - Powered by mankuhome
+shop/wxpay_index.html                                                 -->微信支付 - Powered by sfxxkj
+shop/ztc_goods_list.html                                              -->热卖商品 - Powered by sfxxkj
+system/admin/blue/cashcoupontype_add.html                             -->现金券类型添加
+system/admin/blue/complaint_img.html                                  -->图片列表
+system/admin/blue/Copy of login.html                                  -->shopping商城系统后台登录
+system/admin/blue/expert_detail.html                                  -->专家 - $!{config.title} -  Powered by shopping
+system/admin/blue/goods_manage.html                                   -->无标题文档
+system/admin/blue/loanback_detail_1.html                              -->我的贷款
+system/admin/blue/manage.html                                         -->$!config.title - Powered by sfxxkj
+system/admin/blue/master_detail.html                                  -->达人 - $!{config.title} -  Powered by shopping
+system/admin/blue/question_list.html                                  -->网贷问答_专业的P2P网贷问答平台-网贷天下
+system/admin/blue/raise_project_detail.html                           -->众筹 - $!{config.title} -  Powered by sfxxkj
+system/admin/blue/set_area_setting.html                               -->无标题文档
+system/admin/blue/weibo_add.html                                      -->$!config.title - Powered by JMJJ
+system/admin/blue/welcome.html                                        -->shopping商城系统后台管理
+system/admin/pano/tour_edit.html                                      -->全景图 - 热点编辑
+system/admin/pano/tour_index.html                                     -->满屋家具
+system/admin/pano/tour_large.html                                     -->满屋家具
+system/user/default/usercenter/account.html                           -->个人信息-$!{config.title}-Powered by sfxxkj
+system/user/default/usercenter/account_avatar.html                    -->头像修改-$!{config.title}- Powered by sfxxkj
+system/user/default/usercenter/account_bind.html                      -->账号绑定-$!{config.title}-Powered by sfxxkj
+system/user/default/usercenter/account_email.html                     -->电子邮件修改-$!{config.title}-Powered by sfxxkj
+system/user/default/usercenter/account_friend.html                    -->好友管理 - Powered by sfxxkj
+system/user/default/usercenter/account_friend_search.html             -->好友管理 - Powered by sfxxkj
+system/user/default/usercenter/account_mobile.html                    -->手机号码修改-$!{config.title}-Powered by sfxxkj
+system/user/default/usercenter/account_password.html                  -->用户密码修改-$!{config.title}-Powered by sfxxkj
+system/user/default/usercenter/activity.html                          -->活动管理 - Powered by sfxxkj
+system/user/default/usercenter/activity_apply.html                    -->直通车申请 -  Powered by sfxxkj
+system/user/default/usercenter/activity_goods_list.html               -->活动管理 - Powered by sfxxkj
+system/user/default/usercenter/add_goods_finish.html                  -->商品发布成功 - Powered by sfxxkj
+system/user/default/usercenter/add_goods_first.html                   -->选择商品分类 -  Powered by sfxxkj
+system/user/default/usercenter/add_goods_second.html                  -->填写商品详细信息 - Powered by sfxxkj
+system/user/default/usercenter/add_raise_dynamic.html                 -->项目动态发布 -  Powered by sfxxkj
+system/user/default/usercenter/add_raise_project.html                 -->众筹项目发布 -  Powered by sfxxkj
+system/user/default/usercenter/add_spare_goods.html                   -->闲置商品发布 -  Powered by sfxxkj
+system/user/default/usercenter/add_yimaigoods_finish.html             -->义卖商品发布成功 - Powered by shopping
+system/user/default/usercenter/add_yimaigoods_first.html              -->选择商品分类 -  Powered by shopping
+system/user/default/usercenter/add_yimaigoods_second.html             -->填写商品详细信息 - Powered by shopping
+system/user/default/usercenter/address.html                           -->收货地址-$!{config.title}-Powered by sfxxkj
+system/user/default/usercenter/advert_apply.html                      -->广告申请  -  Powered by sfxxkj
+system/user/default/usercenter/advert_delay.html                      -->广告申请  -  Powered by sfxxkj
+system/user/default/usercenter/advert_list.html                       -->广告列表-  Powered by sfxxkj
+system/user/default/usercenter/advert_my.html                         -->我的广告 -  Powered by sfxxkj
+system/user/default/usercenter/album.html                             -->图片空间 - Powered by sfxxkj
+system/user/default/usercenter/album_image.html                       -->图片空间 - Powered by sfxxkj
+system/user/default/usercenter/bargain.html                           -->天天特价 - Powered by sfxxkj
+system/user/default/usercenter/bargain_apply.html                     -->特价商品申请 -  Powered by sfxxkj
+system/user/default/usercenter/bargain_goods_list.html                -->天天特价 - Powered by sfxxkj
+system/user/default/usercenter/buyer_blog_add.html                    -->我的帖子 - Powered by sfxxkj
+system/user/default/usercenter/buyer_blog_list.html                   -->帖子管理 -  Powered by sfxxkj
+system/user/default/usercenter/buyer_cash.html                        -->提现申请 -  Powered by sfxxkj
+system/user/default/usercenter/buyer_cash_list.html                   -->提现申请列表-  Powered by sfxxkj
+system/user/default/usercenter/buyer_cash_view.html                   -->提现详情 - Powered by sfxxkj
+system/user/default/usercenter/buyer_cashcoupon.html                  -->现金券管理 -  Powered by sfxxkj
+system/user/default/usercenter/buyer_complaint.html                   -->投诉管理 - Powered by sfxxkj
+system/user/default/usercenter/buyer_complaint_seller.html            -->投诉管理 - Powered by sfxxkj
+system/user/default/usercenter/buyer_consult.html                     -->咨询管理 - Powered by sfxxkj
+system/user/default/usercenter/buyer_coupon.html                      -->优惠券管理 -  Powered by sfxxkj
+system/user/default/usercenter/buyer_index.html                       -->$!config.title - Powered by sfxxkj
+system/user/default/usercenter/buyer_loan.html                        -->我的贷款
+system/user/default/usercenter/buyer_order.html                       -->我的订单 - $!config.title - Powered by sfxxkj
+system/user/default/usercenter/buyer_order_evaluate.html              -->订单商品评价 -  Powered by sfxxkj
+system/user/default/usercenter/buyer_predeposit.html                  -->预存款充值  -  Powered by sfxxkj
+system/user/default/usercenter/buyer_predeposit_log.html              -->充值列表-  Powered by sfxxkj
+system/user/default/usercenter/combin.html                            -->组合销售 - $!{config.title} - Powered by sfxxkj
+system/user/default/usercenter/combin_apply.html                      -->添加组合销售 -  Powered by sfxxkj
+system/user/default/usercenter/combin_buy.html                        -->组合销售套餐申请 -$!{config.title} -  Powered by sfxxkj
+system/user/default/usercenter/combin_log.html                        -->组合销售 - $!{config.title} - Powered by sfxxkj
+system/user/default/usercenter/complaint_handle.html                  -->投诉管理 - Powered by sfxxkj
+system/user/default/usercenter/complaint_img.html                     -->投诉图片查看 - Powered by sfxxkj
+system/user/default/usercenter/complaint_view.html                    -->投诉管理 - Powered by sfxxkj
+system/user/default/usercenter/consult.html                           -->咨询管理 - Powered by sfxxkj
+system/user/default/usercenter/delivery.html                          -->买就送 - $!{config.title} - Powered by sfxxkj
+system/user/default/usercenter/delivery_apply.html                    -->添加买就送 -  Powered by sfxxkj
+system/user/default/usercenter/delivery_buy.html                      -->买就送套餐申请 -$!{config.title} -  Powered by sfxxkj
+system/user/default/usercenter/delivery_goods_list.html               -->买就送 - Powered by sfxxkj
+system/user/default/usercenter/delivery_log.html                      -->买就送 - $!{config.title} - Powered by sfxxkj
+system/user/default/usercenter/error.html                             -->系统提示 - $!config.title -
+system/user/default/usercenter/expert_detail.html                     -->专家 - $!{config.title} -  Powered by shopping
+system/user/default/usercenter/favorite_goods.html                    -->商品收藏 -  Powered by sfxxkjl
+system/user/default/usercenter/favorite_magazine.html                 -->商品收藏 -  Powered by shoppingl
+system/user/default/usercenter/favorite_scheme.html                   -->商品收藏 -  Powered by sfxxkjl
+system/user/default/usercenter/favorite_store.html                    -->店铺收藏 -  Powered by sfxxkjl
+system/user/default/usercenter/gold_log.html                          -->金币兑换日志-  Powered by sfxxkj
+system/user/default/usercenter/gold_record.html                       -->预存款充值  -  Powered by sfxxkj
+system/user/default/usercenter/gold_record_list.html                  -->兑换列表-  Powered by sfxxkj
+system/user/default/usercenter/gold_view.html                         -->充值详情 - Powered by sfxxkj
+system/user/default/usercenter/gongyi_activity_list.html              -->我参加的公益活动- $!config.title - Powered by shopping
+system/user/default/usercenter/goods.html                             -->出售中的商品-$!{config.title}- Powered by sfxxkj
+system/user/default/usercenter/goods_out.html                         -->出售中的商品 - Powered by sfxxkj
+system/user/default/usercenter/goods_report.html                      -->被举报禁售商品 - Powered by sfxxkj
+system/user/default/usercenter/goods_return.html                      -->退货管理 - Powered by sfxxkj
+system/user/default/usercenter/goods_storage.html                     -->出售中的商品 - Powered by sfxxkj
+system/user/default/usercenter/group.html                             -->团购活动 - Powered by JMJJ
+system/user/default/usercenter/group_add.html                         -->团购活动 - Powered by sfxxkj
+system/user/default/usercenter/homepage.html                          -->$!config.title - Powered by sfxxkj
+system/user/default/usercenter/homepage_master_share.html             -->$!config.title - Powered by shopping
+system/user/default/usercenter/homepage_master_share_add.html         -->分享生活/分享快乐-达人分享-  Powered by shopping
+system/user/default/usercenter/homepage_myattention.html              -->$!config.title - Powered by sfxxkj
+system/user/default/usercenter/homepage_myfans.html                   -->$!config.title - Powered by sfxxkj
+system/user/default/usercenter/homepage_myfriends.html                -->$!config.title - Powered by sfxxkj
+system/user/default/usercenter/huzhu_message_list.html                -->我的互助 - $!config.title - Powered by shopping
+system/user/default/usercenter/huzhuMessage.html                      -->互助发布 -  Powered by shopping
+system/user/default/usercenter/image_slide.html                       -->图片空间 - Powered by sfxxkj
+system/user/default/usercenter/income.html                            -->卖家中心-$!{config.title}
+system/user/default/usercenter/integral_order_list.html               -->积分兑换 - Powered by sfxxkj
+system/user/default/usercenter/integral_order_view.html               -->积分兑换详情 - Powered by sfxxkj
+system/user/default/usercenter/loan_apply.html                        -->现金券管理 -  Powered by sfxxkj
+system/user/default/usercenter/loan_edit.html                         -->我的贷款 - Powered by sfxxkj
+system/user/default/usercenter/loan_view.html                         -->我的贷款 - Powered by sfxxkj
+system/user/default/usercenter/loanback.html                          -->还款 -  Powered by sfxxkj
+system/user/default/usercenter/loanback_detail_1.html                 -->我的贷款
+system/user/default/usercenter/luntan_topic_list.html                 -->我发布的主题- $!config.title - Powered by shopping
+system/user/default/usercenter/master_detail.html                     -->达人 - $!{config.title} -  Powered by shopping
+system/user/default/usercenter/message.html                           -->站内信 - Powered by sfxxkjl
+system/user/default/usercenter/message_info.html                      -->站内信 - Powered by sfxxkjl
+system/user/default/usercenter/message_send.html                      -->站内信 - Powered by sfxxkjl
+system/user/default/usercenter/myattentions.html                      -->$!config.title - Powered by sfxxkj
+system/user/default/usercenter/order_print.html                       -->订单打印  -  Powered by sfxxkj
+system/user/default/usercenter/order_ship_view.html                   -->查看物流 - Powered by sfxxkj
+system/user/default/usercenter/order_view.html                        -->订单详情 - Powered by sfxxkj
+system/user/default/usercenter/payment/alipay.html                    -->支付方式 - Powered by sfxxkj
+system/user/default/usercenter/payment/alipay_wap.html                -->支付方式 - Powered by sfxxkj
+system/user/default/usercenter/payment/balance.html                   -->支付方式 - Powered by sfxxkj
+system/user/default/usercenter/payment/bill.html                      -->支付方式 - Powered by sfxxkj
+system/user/default/usercenter/payment/cashcoupon.html                -->支付方式 - Powered by sfxxkj
+system/user/default/usercenter/payment/chinabank.html                 -->支付方式 - Powered by sfxxkj
+system/user/default/usercenter/payment/outline.html                   -->支付方式 - Powered by sfxxkj
+system/user/default/usercenter/payment/payafter.html                  -->支付方式 - Powered by sfxxkj
+system/user/default/usercenter/payment/paypal.html                    -->支付方式 - Powered by CooMarts
+system/user/default/usercenter/payment/tenpay.html                    -->支付方式 - Powered by sfxxkj
+system/user/default/usercenter/payment/unionpay.html                  -->支付方式 - Powered by sfxxkj
+system/user/default/usercenter/payment/wxpay.html                     -->支付方式 - Powered by sfxxkj
+system/user/default/usercenter/payment.html                           -->支付方式 - Powered by sfxxkj
+system/user/default/usercenter/predeposit_list.html                   -->充值列表-  Powered by sfxxkj
+system/user/default/usercenter/predeposit_view.html                   -->充值详情 - Powered by sfxxkj
+system/user/default/usercenter/raise_goods.html                       -->选择众筹商品-$!{config.title}- Powered by sfxxkj
+system/user/default/usercenter/raise_goods_list.html                  -->众筹商品-$!{config.title}- Powered by sfxxkj
+system/user/default/usercenter/raise_project.html                     -->众筹项目-$!{config.title}- Powered by sfxxkj
+system/user/default/usercenter/raise_project_detail.html              -->众筹 - $!{config.title} -  Powered by sfxxkj
+system/user/default/usercenter/raise_statue.html                      -->筹资状态-$!{config.title}- Powered by sfxxkj
+system/user/default/usercenter/reduction_delivery_apply.html          -->添加买就送 -  Powered by sfxxkj
+system/user/default/usercenter/reduction_delivery_list.html           -->满减送 - $!{config.title} - Powered by jmjz
+system/user/default/usercenter/reduction_deliverygoods_apply.html     -->添加赠品 -  Powered by MANKU
+system/user/default/usercenter/reduction_deliverygoods_list.html      -->满减送 - $!{config.title} - Powered by jmjz
+system/user/default/usercenter/reduction_reduce_apply.html            -->添加买就送 -  Powered by sfxxkj
+system/user/default/usercenter/reduction_reduce_apply2.html           -->满就减商品申请 -  Powered by jmjz
+system/user/default/usercenter/reduction_reduce_list.html             -->满减送 - $!{config.title} - Powered by jmjj
+system/user/default/usercenter/refund.html                            -->退款管理 - Powered by sfxxkj
+system/user/default/usercenter/report.html                            -->我的举报 - Powered by sfxxkj
+system/user/default/usercenter/report_add.html                        -->举报商品 - Powered by sfxxkj
+system/user/default/usercenter/report_img.html                        -->投诉图片查看 - Powered by sfxxkj
+system/user/default/usercenter/report_view.html                       -->举报详情 - Powered by sfxxkj
+system/user/default/usercenter/seckill.html                           -->团购活动 - Powered by sfxxkj
+system/user/default/usercenter/seckill_add.html                       -->秒杀活动 - Powered by sfxxkj
+system/user/default/usercenter/seller_complaint.html                  -->投诉管理 - Powered by sfxxkj
+system/user/default/usercenter/seller_complaint_view.html             -->投诉管理 - Powered by sfxxkj
+system/user/default/usercenter/seller_index.html                      -->卖家中心-$!{config.title}-Powered by sfxxkj
+system/user/default/usercenter/seller_order.html                      -->我的订单 -  Powered by sfxxkj
+system/user/default/usercenter/seller_order_evaluate.html             -->订单商品评价 -  Powered by sfxxkj
+system/user/default/usercenter/seller_order_return_ship_view.html     -->查看物流 - Powered by sfxxkj
+system/user/default/usercenter/seller_ship_view.html                  -->查看物流 - Powered by sfxxkj
+system/user/default/usercenter/sns_friend_search.html                 -->无标题文档
+system/user/default/usercenter/spare_goods.html                       -->闲置商品 - Powered by sfxxkj
+system/user/default/usercenter/store_approve.html                     -->店铺设置  -  Powered by sfxxkj
+system/user/default/usercenter/store_baidu_map.html                   -->店铺设置  -  Powered by sfxxkjl
+system/user/default/usercenter/store_google_map.html                  -->店铺设置  -  Powered by sfxxkjl
+system/user/default/usercenter/store_grade.html                       -->$!config.title -  Powered by sfxxkj
+system/user/default/usercenter/store_map.html                         -->店铺设置  -  Powered by sfxxkj
+system/user/default/usercenter/store_nav.html                         -->导航设置 - $!config.title
+system/user/default/usercenter/store_nav_add.html                     -->导航设置 -  Powered by sfxxkj
+system/user/default/usercenter/store_partner.html                     -->友情链接 - $!config.title
+system/user/default/usercenter/store_partner_add.html                 -->友情链接设置 -  Powered by sfxxkj
+system/user/default/usercenter/store_set.html                         -->店铺设置  -  Powered by sfxxkj
+system/user/default/usercenter/store_slide.html                       -->店铺设置  -  Powered by sfxxkj
+system/user/default/usercenter/store_theme.html                       -->主题设置 -  Powered by sfxxkj
+system/user/default/usercenter/sub_account_add.html                   -->子账户添加 - $!{config.title}-Powered by sfxxkj
+system/user/default/usercenter/sub_account_list.html                  -->子账户管理-Powered by sfxxkj
+system/user/default/usercenter/success.html                           -->系统提示 - $!config.title -
+system/user/default/usercenter/taobao.html                            -->淘宝数据导入-$!{config.title}- Powered by sfxxkj
+system/user/default/usercenter/taobao_import_finish.html              -->淘宝数据导入完成-$!{config.title}- Powered by sfxxkj
+system/user/default/usercenter/taobao_import_img.html                 -->淘宝数据导入-$!{config.title}- Powered by sfxxkj
+system/user/default/usercenter/transport_add.html                     -->运费模板 - $!{config.title} - Powered by sfxxkj
+system/user/default/usercenter/transport_list.html                    -->运费模板 - Powered by sfxxkj
+system/user/default/usercenter/usergoodsbrand_add.html                -->卖家品牌申请  -  Powered by sfxxkj
+system/user/default/usercenter/usergoodsbrand_list.html               -->卖家品牌列表 - Powered by sfxxkj
+system/user/default/usercenter/usergoodsclass_list.html               -->商品分类列表 - Powered by sfxxkj
+system/user/default/usercenter/watermark.html                         -->水印设置 - Powered by sfxxkj
+system/user/default/usercenter/weixin_msg.html                        -->微信商城  -  Powered by sfxxkj
+system/user/default/usercenter/weixin_store.html                      -->微信商城  -  Powered by sfxxkj
+system/user/default/usercenter/weixin_store_buy.html                  -->微信商城申请 -$!{config.title} -  Powered by sfxxkj
+system/user/default/usercenter/weixin_store_log.html                  -->微信店铺购买日志 - $!{config.title} - Powered by sfxxkj
+system/user/default/usercenter/weixin_store_menu.html                 -->微信商城  -  Powered by sfxxkj
+system/user/default/usercenter/yimai_goods.html                       -->选择义卖商品-$!{config.title}- Powered by shopping
+system/user/default/usercenter/yimai_goods_list.html                  -->义卖商品-$!{config.title}- Powered by shopping
+system/user/default/usercenter/yimaigoods_storage.html                -->出售中的商品 - Powered by shopping
+system/user/default/usercenter/ztc_apply.html                         -->直通车申请 -  Powered by sfxxkj
+system/user/default/usercenter/ztc_apply_list.html                    -->直通车商品 - Powered by sfxxkj
+system/user/default/usercenter/ztc_apply_view.html                    -->直通车申请详情 - Powered by sfxxkj
+system/user/default/usercenter/ztc_list.html                          -->直通车商品 - Powered by sfxxkj
+system/user/default/usercenter/ztc_set.html                           -->直通车列表 - $!config.title

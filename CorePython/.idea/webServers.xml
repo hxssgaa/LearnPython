@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ae1ace70-5386-4817-8ff7-1a311d6184dd" name="aliyun" url="http://116.62.194.160">
+        <fileTransfer host="116.62.194.160" port="5000" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="5000" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
